@@ -1,0 +1,21 @@
+/* Пользовательские стили */
+
+.sec1, .sec2, .sec3 {
+	background-color: #ccc;
+}
+
+body {
+	background-color: #ccc;
+}
+
+h1.fir {
+	text-align: center;
+}
+
+.pb {
+	margin: 50px 10px;
+}
+
+.batn1, .batn2, .batn3 {
+	margin: 0 10px;
+}
